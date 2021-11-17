@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    margin: 0 auto;
+    width: 100vh;
+}
+
+#map{
+    width: 100vh;
+    height: 100vh;
+}
